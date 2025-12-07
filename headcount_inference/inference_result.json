@@ -1,0 +1,1050 @@
+{
+    "inference_id": "a0e2e7be-f141-48ad-af5d-a2cdbef30c98",
+    "time": 0.02879226498771459,
+    "image": {
+        "width": 1500,
+        "height": 594
+    },
+    "predictions": [
+        {
+            "x": 237.0,
+            "y": 247.0,
+            "width": 78.0,
+            "height": 92.0,
+            "confidence": 0.8475188612937927,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "9b88d5e4-2f20-42f2-91d0-6f2d009316c8"
+        },
+        {
+            "x": 856.0,
+            "y": 264.5,
+            "width": 74.0,
+            "height": 85.0,
+            "confidence": 0.8378973603248596,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "d9ce3ddd-bff8-4b4e-8280-b78b42f9d950"
+        },
+        {
+            "x": 687.0,
+            "y": 469.5,
+            "width": 118.0,
+            "height": 107.0,
+            "confidence": 0.8325039744377136,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "e5159b6e-9701-4af0-896d-dc7d9e7d9019"
+        },
+        {
+            "x": 1165.5,
+            "y": 172.5,
+            "width": 63.0,
+            "height": 77.0,
+            "confidence": 0.8265759944915771,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "f1737d6e-c922-49c6-9d65-5983303811f5"
+        },
+        {
+            "x": 525.5,
+            "y": 277.0,
+            "width": 63.0,
+            "height": 74.0,
+            "confidence": 0.8257284164428711,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "363bfc64-3828-40b7-87e6-ab00f93ddc44"
+        },
+        {
+            "x": 241.0,
+            "y": 525.5,
+            "width": 174.0,
+            "height": 137.0,
+            "confidence": 0.8250575661659241,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "e9564292-3149-4841-8ad5-9c6b470e5292"
+        },
+        {
+            "x": 981.5,
+            "y": 215.0,
+            "width": 73.0,
+            "height": 78.0,
+            "confidence": 0.8234396576881409,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "439711a2-cb92-4800-880c-e49dcae9bcae"
+        },
+        {
+            "x": 622.5,
+            "y": 177.5,
+            "width": 59.0,
+            "height": 61.0,
+            "confidence": 0.8228858709335327,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "f8d247ba-264b-48fb-b95e-d87efa71692f"
+        },
+        {
+            "x": 354.0,
+            "y": 183.0,
+            "width": 58.0,
+            "height": 78.0,
+            "confidence": 0.821136474609375,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "6e2291cb-a62e-47d3-a8f9-85e995a4339f"
+        },
+        {
+            "x": 630.5,
+            "y": 354.5,
+            "width": 111.0,
+            "height": 115.0,
+            "confidence": 0.8194370865821838,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "28f040d5-595a-4ec2-9a31-96d024834354"
+        },
+        {
+            "x": 747.5,
+            "y": 184.5,
+            "width": 59.0,
+            "height": 63.0,
+            "confidence": 0.8184563517570496,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "a1e17293-f160-4328-ab18-1a97883f48c5"
+        },
+        {
+            "x": 1424.0,
+            "y": 285.5,
+            "width": 76.0,
+            "height": 85.0,
+            "confidence": 0.8148927688598633,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "f881ff12-1883-4345-ba1b-5a43a60f6c74"
+        },
+        {
+            "x": 305.0,
+            "y": 142.5,
+            "width": 52.0,
+            "height": 53.0,
+            "confidence": 0.7998228669166565,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "9861bcc2-f214-4618-8469-f76a99f8d455"
+        },
+        {
+            "x": 1148.5,
+            "y": 289.0,
+            "width": 71.0,
+            "height": 90.0,
+            "confidence": 0.7965191006660461,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "7e914c32-e900-435b-8fbc-d3be93f0573f"
+        },
+        {
+            "x": 764.0,
+            "y": 103.0,
+            "width": 48.0,
+            "height": 58.0,
+            "confidence": 0.794239342212677,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "760acf6c-5763-45c4-9e6d-54939615c952"
+        },
+        {
+            "x": 1027.5,
+            "y": 446.5,
+            "width": 123.0,
+            "height": 141.0,
+            "confidence": 0.7912086844444275,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "8e03f940-e703-4d46-a754-273814d34bd3"
+        },
+        {
+            "x": 63.5,
+            "y": 523.5,
+            "width": 127.0,
+            "height": 141.0,
+            "confidence": 0.791113555431366,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "c7d90d30-e917-48a1-a83e-7ec3234902ad"
+        },
+        {
+            "x": 1102.0,
+            "y": 142.0,
+            "width": 50.0,
+            "height": 60.0,
+            "confidence": 0.7882133722305298,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "d9063c22-b355-4df4-8d3f-11e2bc55cf29"
+        },
+        {
+            "x": 894.0,
+            "y": 195.0,
+            "width": 54.0,
+            "height": 62.0,
+            "confidence": 0.7877628803253174,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "3970aa98-1a93-4835-9328-d345b373715b"
+        },
+        {
+            "x": 459.0,
+            "y": 251.5,
+            "width": 54.0,
+            "height": 63.0,
+            "confidence": 0.7830650210380554,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "19041ca5-263b-4907-8ce7-c1dbecc9dabb"
+        },
+        {
+            "x": 754.0,
+            "y": 330.5,
+            "width": 98.0,
+            "height": 103.0,
+            "confidence": 0.7816364169120789,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "4d88a02a-8a92-4533-9b3c-3efe1637e0d7"
+        },
+        {
+            "x": 586.0,
+            "y": 250.0,
+            "width": 58.0,
+            "height": 54.0,
+            "confidence": 0.7815672755241394,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "263ca203-31be-49b1-94ed-71e1a8b07e61"
+        },
+        {
+            "x": 207.5,
+            "y": 132.0,
+            "width": 59.0,
+            "height": 64.0,
+            "confidence": 0.7770336270332336,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "75b4cced-7009-4fba-bf47-06e15f5aacb6"
+        },
+        {
+            "x": 689.5,
+            "y": 117.0,
+            "width": 57.0,
+            "height": 52.0,
+            "confidence": 0.7760348320007324,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "7152b291-9b73-4bae-b310-423f760ac768"
+        },
+        {
+            "x": 482.0,
+            "y": 399.5,
+            "width": 178.0,
+            "height": 157.0,
+            "confidence": 0.7747446298599243,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "4eb66508-4512-4cb9-9ea3-d248506e4dad"
+        },
+        {
+            "x": 847.5,
+            "y": 154.0,
+            "width": 39.0,
+            "height": 60.0,
+            "confidence": 0.7729477286338806,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "b02f4db6-ab57-4218-b109-5b9ba618608b"
+        },
+        {
+            "x": 508.5,
+            "y": 158.5,
+            "width": 51.0,
+            "height": 49.0,
+            "confidence": 0.7717733979225159,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "dfda551d-8ba1-4496-9373-932ca3dac896"
+        },
+        {
+            "x": 1373.0,
+            "y": 93.5,
+            "width": 46.0,
+            "height": 55.0,
+            "confidence": 0.7711017727851868,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "a36aede6-73b9-4994-8333-afc7ee5c0a57"
+        },
+        {
+            "x": 523.5,
+            "y": 81.0,
+            "width": 43.0,
+            "height": 50.0,
+            "confidence": 0.7683729529380798,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "4e8cd217-5c3d-41d9-b1e2-ab135d3ea107"
+        },
+        {
+            "x": 614.0,
+            "y": 113.5,
+            "width": 52.0,
+            "height": 49.0,
+            "confidence": 0.7635071277618408,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "59d0caa7-2859-4407-8467-7509500a8e74"
+        },
+        {
+            "x": 1431.0,
+            "y": 124.5,
+            "width": 50.0,
+            "height": 61.0,
+            "confidence": 0.7627800703048706,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "18ede61d-2f86-48e0-a443-a1914e57b7c4"
+        },
+        {
+            "x": 937.0,
+            "y": 535.0,
+            "width": 152.0,
+            "height": 118.0,
+            "confidence": 0.7614731192588806,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "0e253f0e-9161-46f6-8a1f-d3fc881760e5"
+        },
+        {
+            "x": 52.5,
+            "y": 281.0,
+            "width": 83.0,
+            "height": 84.0,
+            "confidence": 0.7575356364250183,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "00173000-cbcf-438d-80f7-0001aaafbf1e"
+        },
+        {
+            "x": 1242.0,
+            "y": 132.0,
+            "width": 42.0,
+            "height": 48.0,
+            "confidence": 0.7548977732658386,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "198ae54a-35d0-4bbd-8822-17a24b116237"
+        },
+        {
+            "x": 1204.0,
+            "y": 293.0,
+            "width": 84.0,
+            "height": 92.0,
+            "confidence": 0.7521172165870667,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "e9907032-b7b2-40f8-842c-6f1c22e3d6e5"
+        },
+        {
+            "x": 1280.0,
+            "y": 163.0,
+            "width": 56.0,
+            "height": 54.0,
+            "confidence": 0.7423025965690613,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "22191a6b-4042-4bd3-b0ed-12963b8efac6"
+        },
+        {
+            "x": 1296.0,
+            "y": 246.0,
+            "width": 64.0,
+            "height": 66.0,
+            "confidence": 0.7385615706443787,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "5ec58a60-02f9-4447-be80-55207c9581e6"
+        },
+        {
+            "x": 276.0,
+            "y": 88.0,
+            "width": 42.0,
+            "height": 42.0,
+            "confidence": 0.7385572195053101,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "4b5cc327-bb4d-4773-81a0-60d2ad411493"
+        },
+        {
+            "x": 625.0,
+            "y": 57.5,
+            "width": 44.0,
+            "height": 43.0,
+            "confidence": 0.7357021570205688,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "1b27429a-aa19-47d9-a745-66a7025cf602"
+        },
+        {
+            "x": 720.0,
+            "y": 73.0,
+            "width": 40.0,
+            "height": 48.0,
+            "confidence": 0.7341558933258057,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "2d0b346f-39e9-42ff-a7ba-7500350383b5"
+        },
+        {
+            "x": 27.5,
+            "y": 70.0,
+            "width": 41.0,
+            "height": 50.0,
+            "confidence": 0.718716561794281,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "26643dd1-98d0-4bd3-814c-f9fd2f764dda"
+        },
+        {
+            "x": 887.0,
+            "y": 141.5,
+            "width": 44.0,
+            "height": 55.0,
+            "confidence": 0.7185400128364563,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "5bef9a20-7b0f-4b93-b27b-9cda79221048"
+        },
+        {
+            "x": 1150.5,
+            "y": 56.5,
+            "width": 31.0,
+            "height": 37.0,
+            "confidence": 0.7090464234352112,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "4e3d0a64-5cf5-4469-9d1e-a1c9ef43dfbe"
+        },
+        {
+            "x": 962.5,
+            "y": 116.5,
+            "width": 55.0,
+            "height": 55.0,
+            "confidence": 0.7064704298973083,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "feca9191-fd10-484e-a7ec-5059e7b41b10"
+        },
+        {
+            "x": 1480.0,
+            "y": 197.0,
+            "width": 40.0,
+            "height": 66.0,
+            "confidence": 0.7062360048294067,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "5999c64c-db06-40ba-a1d5-036bf369a0b9"
+        },
+        {
+            "x": 149.5,
+            "y": 106.0,
+            "width": 51.0,
+            "height": 62.0,
+            "confidence": 0.7040895819664001,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "8df49def-344f-41ea-9207-d6f9a4d10881"
+        },
+        {
+            "x": 1394.0,
+            "y": 418.5,
+            "width": 108.0,
+            "height": 143.0,
+            "confidence": 0.6905776262283325,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "4118e42b-e3e3-49d5-8e4c-cb8e245073f7"
+        },
+        {
+            "x": 852.0,
+            "y": 19.5,
+            "width": 30.0,
+            "height": 25.0,
+            "confidence": 0.678789496421814,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "c7309be3-8729-4ad0-96b1-d729132d024a"
+        },
+        {
+            "x": 397.5,
+            "y": 93.5,
+            "width": 49.0,
+            "height": 43.0,
+            "confidence": 0.6774466037750244,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "da44a4fd-b057-4f50-af2a-7bcefa1f312e"
+        },
+        {
+            "x": 1230.5,
+            "y": 56.0,
+            "width": 31.0,
+            "height": 40.0,
+            "confidence": 0.6772463321685791,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "7efadd7c-d941-4fd9-be0a-c0f04d990d50"
+        },
+        {
+            "x": 1188.5,
+            "y": 61.0,
+            "width": 33.0,
+            "height": 40.0,
+            "confidence": 0.6740952134132385,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "ca814d8f-23e1-4a9b-849e-7bd3c3e928e2"
+        },
+        {
+            "x": 1114.5,
+            "y": 100.0,
+            "width": 45.0,
+            "height": 40.0,
+            "confidence": 0.6697043180465698,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "1ee655c7-54ec-47fe-aedd-1f98ac9ce420"
+        },
+        {
+            "x": 77.5,
+            "y": 92.0,
+            "width": 53.0,
+            "height": 54.0,
+            "confidence": 0.6682814359664917,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "d397ea45-9021-4bb8-ba6b-801c331632de"
+        },
+        {
+            "x": 419.5,
+            "y": 121.5,
+            "width": 51.0,
+            "height": 51.0,
+            "confidence": 0.6612339019775391,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "ab614a03-c8db-4bf5-aa5f-e5ea7cc6ffc8"
+        },
+        {
+            "x": 205.0,
+            "y": 60.5,
+            "width": 40.0,
+            "height": 41.0,
+            "confidence": 0.661029577255249,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "f584f0ce-3c43-43a5-8678-90a0106887a6"
+        },
+        {
+            "x": 896.0,
+            "y": 69.5,
+            "width": 40.0,
+            "height": 45.0,
+            "confidence": 0.6609516739845276,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "b1c9e6c4-71a4-4b99-b1fb-1fc6f4be8c05"
+        },
+        {
+            "x": 989.5,
+            "y": 31.5,
+            "width": 29.0,
+            "height": 31.0,
+            "confidence": 0.6568636298179626,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "a3dac0bb-c736-4f16-b4f5-3f408903a68f"
+        },
+        {
+            "x": 811.5,
+            "y": 81.0,
+            "width": 41.0,
+            "height": 44.0,
+            "confidence": 0.6560733914375305,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "e7f94fef-f19e-48da-aa98-b8bf61bf875f"
+        },
+        {
+            "x": 566.5,
+            "y": 177.5,
+            "width": 57.0,
+            "height": 59.0,
+            "confidence": 0.6502991318702698,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "c3dbc436-83e7-4ac2-9e8a-039659448bd7"
+        },
+        {
+            "x": 1199.5,
+            "y": 97.5,
+            "width": 41.0,
+            "height": 43.0,
+            "confidence": 0.6482200026512146,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "f108af93-e01d-443c-9c7c-5f7c1ee835cd"
+        },
+        {
+            "x": 762.5,
+            "y": 20.0,
+            "width": 31.0,
+            "height": 30.0,
+            "confidence": 0.6437068581581116,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "c4a4f2b5-ff15-42c5-b75f-418692789eef"
+        },
+        {
+            "x": 830.5,
+            "y": 38.5,
+            "width": 31.0,
+            "height": 31.0,
+            "confidence": 0.6433820128440857,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "7102931f-ada9-41cb-8c77-c91f2b85831b"
+        },
+        {
+            "x": 930.0,
+            "y": 56.5,
+            "width": 38.0,
+            "height": 47.0,
+            "confidence": 0.6419650912284851,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "fcb03f1b-7452-40af-b84d-ddb8de9ec4d2"
+        },
+        {
+            "x": 1286.0,
+            "y": 51.5,
+            "width": 26.0,
+            "height": 33.0,
+            "confidence": 0.6341956853866577,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "720f4e05-4c8f-4946-a5c3-8d350313d498"
+        },
+        {
+            "x": 161.0,
+            "y": 13.0,
+            "width": 32.0,
+            "height": 26.0,
+            "confidence": 0.6247421503067017,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "a6c5fd85-d388-4879-9bfe-090e0f94872e"
+        },
+        {
+            "x": 1477.5,
+            "y": 539.0,
+            "width": 45.0,
+            "height": 110.0,
+            "confidence": 0.6244641542434692,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "f8c29605-3ff0-453a-96d8-27c8169fcd9b"
+        },
+        {
+            "x": 1384.0,
+            "y": 45.0,
+            "width": 30.0,
+            "height": 34.0,
+            "confidence": 0.6165793538093567,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "a1cd5c42-c0d0-4d01-87c3-0139b496f791"
+        },
+        {
+            "x": 1002.5,
+            "y": 68.5,
+            "width": 31.0,
+            "height": 39.0,
+            "confidence": 0.6130470037460327,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "4216b0a9-d5e6-4d0e-a27c-868d661d65d7"
+        },
+        {
+            "x": 475.0,
+            "y": 61.0,
+            "width": 42.0,
+            "height": 40.0,
+            "confidence": 0.6083496809005737,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "3b5fdbca-e111-474d-bac7-8f50d7734f92"
+        },
+        {
+            "x": 156.0,
+            "y": 218.5,
+            "width": 64.0,
+            "height": 83.0,
+            "confidence": 0.6055101156234741,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "70525169-3a3c-47f6-a9f2-3a8bb1de6c9e"
+        },
+        {
+            "x": 575.5,
+            "y": 47.0,
+            "width": 41.0,
+            "height": 50.0,
+            "confidence": 0.6039490699768066,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "5f4f6c99-cade-42f2-9c9e-7d9f519694e3"
+        },
+        {
+            "x": 809.5,
+            "y": 112.5,
+            "width": 37.0,
+            "height": 47.0,
+            "confidence": 0.6007996797561646,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "e2677157-c466-4d31-b1db-b88d68be2e2c"
+        },
+        {
+            "x": 1155.0,
+            "y": 17.5,
+            "width": 22.0,
+            "height": 21.0,
+            "confidence": 0.5994265675544739,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "80e4ba1f-c4c4-40ed-b900-115dfa200bd6"
+        },
+        {
+            "x": 115.0,
+            "y": 50.0,
+            "width": 38.0,
+            "height": 34.0,
+            "confidence": 0.5850997567176819,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "d7269741-5001-46b2-8626-a36ac5f32ddd"
+        },
+        {
+            "x": 1417.5,
+            "y": 62.5,
+            "width": 33.0,
+            "height": 39.0,
+            "confidence": 0.5741630792617798,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "9093cd53-1079-4e39-972f-50a1dcc3c4b9"
+        },
+        {
+            "x": 424.0,
+            "y": 52.5,
+            "width": 40.0,
+            "height": 35.0,
+            "confidence": 0.5626724362373352,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "54352503-26d7-4eb0-93a1-9f490d0a40c5"
+        },
+        {
+            "x": 1072.0,
+            "y": 56.5,
+            "width": 32.0,
+            "height": 39.0,
+            "confidence": 0.5516196489334106,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "b28eafb0-f0b7-4ca6-8499-544b01a99c73"
+        },
+        {
+            "x": 70.0,
+            "y": 43.0,
+            "width": 40.0,
+            "height": 30.0,
+            "confidence": 0.5467751622200012,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "2b27f35e-f57d-4418-8ec6-76f5d8a8eb2c"
+        },
+        {
+            "x": 268.0,
+            "y": 47.0,
+            "width": 42.0,
+            "height": 36.0,
+            "confidence": 0.5416198372840881,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "8817f894-80fa-4766-bbe6-7743a7cedb23"
+        },
+        {
+            "x": 1294.0,
+            "y": 32.0,
+            "width": 26.0,
+            "height": 24.0,
+            "confidence": 0.5403792262077332,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "bf066bfd-cd9a-4e47-a02a-157d699a0a0c"
+        },
+        {
+            "x": 1334.5,
+            "y": 42.5,
+            "width": 31.0,
+            "height": 33.0,
+            "confidence": 0.5374399423599243,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "20f49c8d-cc72-4c25-81eb-6dabb7cf2171"
+        },
+        {
+            "x": 1034.5,
+            "y": 96.0,
+            "width": 41.0,
+            "height": 40.0,
+            "confidence": 0.5323619246482849,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "12df3379-80db-4ee3-9285-dd7ed02a4c25"
+        },
+        {
+            "x": 1257.5,
+            "y": 55.5,
+            "width": 29.0,
+            "height": 37.0,
+            "confidence": 0.5279893279075623,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "cd80a6b9-67ad-49d2-9a04-c0e33ce8b8e3"
+        },
+        {
+            "x": 1361.5,
+            "y": 169.0,
+            "width": 53.0,
+            "height": 58.0,
+            "confidence": 0.5276187658309937,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "5be6dcde-ac9e-470d-8bac-e896916ab2f9"
+        },
+        {
+            "x": 120.0,
+            "y": 185.5,
+            "width": 56.0,
+            "height": 53.0,
+            "confidence": 0.5239657163619995,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "a5fd30a7-7535-46de-86b9-2d3d1e8ffe31"
+        },
+        {
+            "x": 390.5,
+            "y": 65.5,
+            "width": 43.0,
+            "height": 31.0,
+            "confidence": 0.5194973945617676,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "d3f956fe-dea9-48c0-af5f-33e5e330654f"
+        },
+        {
+            "x": 213.0,
+            "y": 17.0,
+            "width": 28.0,
+            "height": 26.0,
+            "confidence": 0.5180873274803162,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "e0b70954-5cf7-4934-a250-0058ba07242a"
+        },
+        {
+            "x": 1034.0,
+            "y": 61.0,
+            "width": 32.0,
+            "height": 38.0,
+            "confidence": 0.5178306102752686,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "48fa4cb8-c9c6-4af2-aed0-0e6eca4d7b61"
+        },
+        {
+            "x": 1291.5,
+            "y": 95.5,
+            "width": 49.0,
+            "height": 47.0,
+            "confidence": 0.5172306299209595,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "1e32b441-f599-40cb-891c-59b7eb4c128f"
+        },
+        {
+            "x": 188.5,
+            "y": 31.5,
+            "width": 33.0,
+            "height": 29.0,
+            "confidence": 0.5143786668777466,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "2b4f7b39-6f0c-42be-8bda-a57dfe03620b"
+        },
+        {
+            "x": 347.0,
+            "y": 11.5,
+            "width": 38.0,
+            "height": 23.0,
+            "confidence": 0.49225395917892456,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "3b14a78d-82ea-4ab2-b6ce-7b9ab7315584"
+        },
+        {
+            "x": 885.0,
+            "y": 35.5,
+            "width": 32.0,
+            "height": 31.0,
+            "confidence": 0.4877118468284607,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "bf6bc4b7-d760-484c-91b8-ec621a274d55"
+        },
+        {
+            "x": 519.5,
+            "y": 42.0,
+            "width": 33.0,
+            "height": 30.0,
+            "confidence": 0.4849885106086731,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "ca2c1198-44e3-4f7b-b15b-d8e9c850afd7"
+        },
+        {
+            "x": 627.5,
+            "y": 14.0,
+            "width": 33.0,
+            "height": 26.0,
+            "confidence": 0.47716331481933594,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "9dd95c12-30b0-48a0-b4c4-7030f5c52575"
+        },
+        {
+            "x": 1129.5,
+            "y": 31.5,
+            "width": 27.0,
+            "height": 33.0,
+            "confidence": 0.4735444188117981,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "52a356b8-716e-4d78-9b51-1cbf999851f1"
+        },
+        {
+            "x": 792.5,
+            "y": 18.5,
+            "width": 27.0,
+            "height": 23.0,
+            "confidence": 0.47151947021484375,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "1d240dc4-854d-429f-9c89-fbf8d88aa8cd"
+        },
+        {
+            "x": 240.0,
+            "y": 31.0,
+            "width": 32.0,
+            "height": 32.0,
+            "confidence": 0.4667195677757263,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "5cd5ab88-1b44-4bf0-a10c-b9c107a6cd82"
+        },
+        {
+            "x": 1487.5,
+            "y": 64.5,
+            "width": 25.0,
+            "height": 37.0,
+            "confidence": 0.46416324377059937,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "d57527e7-2ddf-4a5f-8cf0-ce0c6ad23a3d"
+        },
+        {
+            "x": 426.0,
+            "y": 19.0,
+            "width": 32.0,
+            "height": 26.0,
+            "confidence": 0.4542918801307678,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "7295b0ce-df14-4126-9d10-7821aa43b8da"
+        },
+        {
+            "x": 706.5,
+            "y": 16.0,
+            "width": 33.0,
+            "height": 32.0,
+            "confidence": 0.43845677375793457,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "1a48b0a8-fc1d-47e0-9002-fc037bce181b"
+        },
+        {
+            "x": 383.0,
+            "y": 13.0,
+            "width": 34.0,
+            "height": 26.0,
+            "confidence": 0.4308735132217407,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "4d7e3ac9-32a5-4e78-bcd6-c8134da5bb64"
+        },
+        {
+            "x": 78.5,
+            "y": 200.5,
+            "width": 71.0,
+            "height": 65.0,
+            "confidence": 0.4111472964286804,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "42b6220d-b1de-4df1-9b71-0672139703a7"
+        },
+        {
+            "x": 1257.5,
+            "y": 28.0,
+            "width": 23.0,
+            "height": 22.0,
+            "confidence": 0.4093986749649048,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "313a5035-51c1-4d24-97d4-fdb741aafb29"
+        },
+        {
+            "x": 481.5,
+            "y": 33.5,
+            "width": 35.0,
+            "height": 27.0,
+            "confidence": 0.40015673637390137,
+            "class": "people",
+            "class_id": 0,
+            "detection_id": "a01883d5-8307-4a36-93cb-4b24a08f5404"
+        }
+    ]
+}
