@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 2
+names: ['people', 'person']
+
+roboflow:
+  workspace: crowd-detection-cnw22
+  project: crowd-detection-qoxv8
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/crowd-detection-cnw22/crowd-detection-qoxv8/dataset/2
